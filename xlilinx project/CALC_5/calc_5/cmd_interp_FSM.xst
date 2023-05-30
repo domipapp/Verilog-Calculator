@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_5/calc_5/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_5/calc_5/xst"
+elaborate
+-ifn cmd_interp_FSM.prj
+-ifmt mixed

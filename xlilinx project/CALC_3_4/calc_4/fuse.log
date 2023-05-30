@@ -1,0 +1,35 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/tb_divider_isim_beh.exe -prj C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/tb_divider_beh.prj work.tb_divider work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/MUX_2_1.v" into library work
+Analyzing Verilog file "C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/FSM.v" into library work
+Analyzing Verilog file "C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/d_flip_flop.v" into library work
+Analyzing Verilog file "C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/CNTR.v" into library work
+Analyzing Verilog file "C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/CMP.v" into library work
+Analyzing Verilog file "C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/a_sub_b.v" into library work
+Analyzing Verilog file "C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/divider.v" into library work
+Analyzing Verilog file "C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/tb_divider.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/divider.v" Line 38: Port sub_err is not connected to this instance
+WARNING:HDLCompiler:1016 - "C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/divider.v" Line 46: Port full is not connected to this instance
+WARNING:HDLCompiler:189 - "C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/divider.v" Line 56: Size mismatch in connection of port <load>. Formal port size is 1-bit while actual signal size is 32-bit.
+Completed static elaboration
+Compiling module div_mux(bits=8)
+Compiling module a_sub_b(bits=8)
+Compiling module d_flip_flop(bits=8)
+Compiling module CMP(bits=8)
+Compiling module CNTR(bits=8)
+Compiling module d_flip_flop(bits=1)
+Compiling module FSM
+Compiling module div_N
+Compiling module tb_divider
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 3 sub-compilation(s) to finish...
+Compiled 10 Verilog Units
+Built simulation executable C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/tb_divider_isim_beh.exe
+Fuse Memory Usage: 28660 KB
+Fuse CPU Usage: 327 ms

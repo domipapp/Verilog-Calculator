@@ -1,0 +1,6 @@
+verilog isim_temp "shr.v"
+verilog isim_temp "negedge.v"
+verilog isim_temp "d_flip_flop.v"
+verilog isim_temp "usrt_rec.v"
+verilog isim_temp "tb_usrt_rec.v"
+verilog isim_temp "C:/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v"

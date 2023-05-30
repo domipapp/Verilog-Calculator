@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/CMP.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/CNTR.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/FSM.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/MPX.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/MPX_6_4_1.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/MUX_2_1.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/a_sub_b.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/a_sub_b_tb.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/add.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/add_tb.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/bin2BCD.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/calc_3_4_top.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/d_flip_flop.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/disp_controll.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/divider.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/hox_to_7seg.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/multiply.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/multiply_tb.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/prediv.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/shr.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/tb_divider.v&quot; into library work</arg>
+</msg>
+
+</messages>
+

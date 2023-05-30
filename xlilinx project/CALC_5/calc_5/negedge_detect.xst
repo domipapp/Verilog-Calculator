@@ -1,0 +1,5 @@
+set -tmpdir "D:/Users/Student/Desktop/my_m123/CALC_5/calc_5/xst/projnav.tmp"
+set -xsthdpdir "D:/Users/Student/Desktop/my_m123/CALC_5/calc_5/xst"
+elaborate
+-ifn negedge_detect.prj
+-ifmt mixed

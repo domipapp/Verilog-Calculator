@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\domip\Downloads\my_m123\CALC_3_4\calc_4\calc_4.ncd
+OUTFILE=C:\Users\domip\Downloads\my_m123\CALC_3_4\calc_4\calc_4.bit
+FAMILY=Spartan3E
+PART=xc3s250e-4tq144
+WORKINGDIR=C:\Users\domip\Downloads\my_m123\CALC_3_4\calc_4
+LICENSE=WebPack
+USER_INFO=174212716_1777490381_0_735

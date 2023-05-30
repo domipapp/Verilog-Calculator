@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Sat Mar 18 20:26:28 2023
+# Process ID: 8552
+# Log file: C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/planAhead_run_2/planAhead.log
+# Journal file: C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/planAhead_run_2/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/pa.fromNetlist.tcl

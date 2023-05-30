@@ -1,0 +1,29 @@
+Command line:
+   tb_MPX_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  2965
+
+Sat Mar 25 18:09:49 2023
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5150.38 Meg
+
+ Total Signals          : 19
+ Total Nets             : 97
+ Total Signal Drivers   : 11
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 14
+ Total Traceable Variables  : 24
+ Total Scalar Nets and Variables : 261
+Total Line Count : 40
+
+ Total Simulation Time: 0.4375 sec
+
+ Current Memory Usage: 4993.09 Meg
+
+Sat Mar 25 18:10:54 2023
+

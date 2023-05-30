@@ -1,0 +1,43 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/domip/Downloads/my_m123/my_m123/CALC_5/calc_5/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/domip/Downloads/my_m123/my_m123/CALC_5/calc_5/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "shr10.v" in library work
+Compiling verilog file "negedge.v" in library work
+Module <shr10> compiled
+Compiling verilog file "d_flip_flop.v" in library work
+Module <negedge_detect> compiled
+Compiling verilog file "usrt_rec.v" in library work
+Module <d_flip_flop> compiled
+Module <usrt_rec> compiled
+No errors in compilation
+Analysis of file <"usrt_rec.prj"> succeeded.
+ 
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.11 secs
+ 
+--> 
+
+Total memory usage is 4467960 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

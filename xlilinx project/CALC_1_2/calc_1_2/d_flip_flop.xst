@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/xst"
+elaborate
+-ifn d_flip_flop.prj
+-ifmt mixed

@@ -1,0 +1,6 @@
+verilog work "shr.v"
+verilog work "negedge.v"
+verilog work "d_flip_flop.v"
+verilog work "usrt_rec.v"
+verilog work "tb_usrt_rec.v"
+verilog work "C:/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v"

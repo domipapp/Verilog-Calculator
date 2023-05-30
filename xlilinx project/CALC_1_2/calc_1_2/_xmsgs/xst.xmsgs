@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompilers" num="259" delta="old" ><arg fmt="%s" index="1">&quot;../calc_1_2_top.v&quot; line 51 </arg>Connection to input port &apos;<arg fmt="%s" index="2">enable</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="261" delta="old" ><arg fmt="%s" index="1">&quot;divider.v&quot; line 43 </arg>Connection to output port &apos;<arg fmt="%s" index="2">a_lower_than_b</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="259" delta="old" ><arg fmt="%s" index="1">&quot;divider.v&quot; line 54 </arg>Connection to input port &apos;<arg fmt="%s" index="2">d</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="261" delta="old" ><arg fmt="%s" index="1">&quot;divider.v&quot; line 54 </arg>Connection to output port &apos;<arg fmt="%s" index="2">q</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="259" delta="old" ><arg fmt="%s" index="1">&quot;divider.v&quot; line 56 </arg>Connection to input port &apos;<arg fmt="%s" index="2">d</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="259" delta="old" ><arg fmt="%s" index="1">&quot;divider.v&quot; line 56 </arg>Connection to input port &apos;<arg fmt="%s" index="2">load</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="261" delta="old" ><arg fmt="%s" index="1">&quot;divider.v&quot; line 56 </arg>Connection to output port &apos;<arg fmt="%s" index="2">q</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">reg6</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">div</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">reg8</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">div</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">out_4</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">reg4</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">out_5</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">reg4</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">out_6</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">reg4</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">out_7</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">reg4</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">out_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">reg7</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">out_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">reg7</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">out_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">reg7</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">out_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">reg7</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">out_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">reg7</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">out_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">reg7</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">out_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">reg7</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="2385" delta="old" >HDL ADVISOR - You can improve the performance of the multiplier <arg fmt="%s" index="1">multiply/Mmult_out</arg> by adding <arg fmt="%d" index="2">1</arg> register level(s).
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">div/reg4/out_4</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">calc_2</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">div/reg4/out_5</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">calc_2</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">div/reg4/out_6</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">calc_2</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">div/reg4/out_7</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">calc_2</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg6/out_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg6/out_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg6/out_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg6/out_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg6/out_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg6/out_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg6/out_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg6/out_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg7/out_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg7/out_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg7/out_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg7/out_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg7/out_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg7/out_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg7/out_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg8/out_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg8/out_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg8/out_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg8/out_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg8/out_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg8/out_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg8/out_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">div/reg8/out_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">calc_2</arg>&gt;.
+</msg>
+
+</messages>
+

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/tb_divider_isim_beh.exe" -prj "C:/Users/domip/Downloads/my_m123 18.15.21/my_m123/CALC_3_4/calc_4/tb_divider_beh.prj" "work.tb_divider" "work.glbl" 

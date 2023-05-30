@@ -1,0 +1,5 @@
+verilog work "cmd_interp_out_reg.v"
+verilog work "cmd_interp_FSM.v"
+verilog work "cmd_interp_decoder.v"
+verilog work "cmd_interp_cmd.v"
+verilog work "cmd_interp.v"

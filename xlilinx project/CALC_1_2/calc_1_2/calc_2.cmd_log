@@ -1,0 +1,41 @@
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc LOGSYS_SP3E.ucf -p xc3s250e-tq144-4 calc_2.ngc calc_2.ngd  
+map -intstyle ise -p xc3s250e-tq144-4 -cm area -ir off -pr off -c 100 -o calc_2_map.ncd calc_2.ngd calc_2.pcf 
+par -w -intstyle ise -ol high -t 1 calc_2_map.ncd calc_2.ncd calc_2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml calc_2.twx calc_2.ncd -o calc_2.twr calc_2.pcf -ucf LOGSYS_SP3E.ucf 
+bitgen -intstyle ise -f calc_2.ut calc_2.ncd 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc LOGSYS_SP3E.ucf -p xc3s250e-tq144-4 calc_2.ngc calc_2.ngd  
+map -intstyle ise -p xc3s250e-tq144-4 -cm area -ir off -pr off -c 100 -o calc_2_map.ncd calc_2.ngd calc_2.pcf 
+par -w -intstyle ise -ol high -t 1 calc_2_map.ncd calc_2.ncd calc_2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml calc_2.twx calc_2.ncd -o calc_2.twr calc_2.pcf -ucf LOGSYS_SP3E.ucf 
+bitgen -intstyle ise -f calc_2.ut calc_2.ncd 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+xst -intstyle ise -ifn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.xst" -ofn "C:/Users/domip/Downloads/my_m123/CALC_1_2/calc_1_2/calc_2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc LOGSYS_SP3E.ucf -p xc3s250e-tq144-4 calc_2.ngc calc_2.ngd  
+map -intstyle ise -p xc3s250e-tq144-4 -cm area -ir off -pr off -c 100 -o calc_2_map.ncd calc_2.ngd calc_2.pcf 
+par -w -intstyle ise -ol high -t 1 calc_2_map.ncd calc_2.ncd calc_2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml calc_2.twx calc_2.ncd -o calc_2.twr calc_2.pcf -ucf LOGSYS_SP3E.ucf 
+bitgen -intstyle ise -f calc_2.ut calc_2.ncd 

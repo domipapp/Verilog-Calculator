@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/domip/Downloads/my_m123/my_m123/CALC_5/calc_5/tb_cmd_interp_out_reg2_isim_beh.exe" -prj "C:/Users/domip/Downloads/my_m123/my_m123/CALC_5/calc_5/tb_cmd_interp_out_reg2_beh.prj" "work.tb_cmd_interp_out_reg2" "work.glbl" 
